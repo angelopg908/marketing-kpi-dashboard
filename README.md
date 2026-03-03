@@ -31,5 +31,3 @@ and Paid Social channels over H1 2024.
 2. Channel Deep Dive — ROI, CPA, and revenue by channel
 3. Trend Analysis — Conversion rate, CPA, ROI over time
 4. Insights — Findings and strategic recommendations
-
-## Live Dashboard
